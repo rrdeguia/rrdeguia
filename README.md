@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQEEBvvWzKbwLw/profile-displaybackgroundimage-shrink_350_1400/0/1677686100286?e=1704931200&v=beta&t=0PLudacw_geXp5wnpmqDWMYJNa5cNgl7rUtHUUWuIkk)
+![MasterHead](https://media.licdn.com/dms/image/D5616AQEEBvvWzKbwLw/profile-displaybackgroundimage-shrink_350_1400/0/1677686100286?e=1704931200&v=beta&t=0PLudacw_geXp5wnpmqDWMYJNa5cNgl7rUtHUUWuIkk)
 <h1 align="center">Raymond De Guia</h1>
 
 <p align="center">
